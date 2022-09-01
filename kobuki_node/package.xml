@@ -32,7 +32,7 @@
   <build_depend>kobuki_msgs</build_depend>
   <build_depend>kobuki_driver</build_depend>
   <build_depend>kobuki_ftdi</build_depend>
-  <build_depend>kobuki_keyop</build_depend>
+  <!--build_depend>kobuki_keyop</build_depend-->
 
   <!-- ECL -->
   <build_depend>ecl_exceptions</build_depend>
@@ -60,11 +60,11 @@
   <run_depend>pluginlib</run_depend>
 
   <!-- Kobuki -->
-  <run_depend>kobuki_rapps</run_depend>
+  <!--run_depend>kobuki_rapps</run_depend-->
   <run_depend>kobuki_msgs</run_depend>
   <run_depend>kobuki_driver</run_depend>
   <run_depend>kobuki_ftdi</run_depend>
-  <run_depend>kobuki_keyop</run_depend>
+  <!--run_depend>kobuki_keyop</run_depend-->
 
   <!-- ECL -->
   <run_depend>ecl_exceptions</run_depend>
